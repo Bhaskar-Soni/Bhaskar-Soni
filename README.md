@@ -2,7 +2,7 @@
 
 <h3>Hi 👋, I'm Bhaskar Soni</h3>
 
-<h5>AWS CSA | AZ-104 | RHCSA | CNSP | CC | TCM-SEC’s PEH | CCIO | ICOSA | CPEW</h5>
+<h5>CEH | AWS CSA | AZ-104 | RHCSA | CNSP | CC | TCM-SEC’s PEH | CCIO | ICOSA | CPEW</h5>
 </div>
 
 --------------------------------------------------------------------------------------------------
